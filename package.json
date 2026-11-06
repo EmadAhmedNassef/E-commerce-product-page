@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@mantine/core": "^9.7.5",
+    "@mantine/hooks": "^9.7.5",
+    "@tabler/icons-react": "^3.50.0",
     "next": "16.4.5",
     "react": "19.3.0",
     "react-dom": "19.3.0"
